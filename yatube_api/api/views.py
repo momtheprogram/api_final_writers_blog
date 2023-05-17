@@ -17,7 +17,6 @@ class CreateListViewSet(mixins.CreateModelMixin,
     """
     Набор представлений, обеспечивающий действия `create` и `list`.
     """
-    pass
 
 
 class PostViewSet(viewsets.ModelViewSet):
