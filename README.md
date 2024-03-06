@@ -1,6 +1,6 @@
 ﻿# **api final**
 ###Описание.
-Проект API для Yatube. Через этот интерфейс могут работать 
+Проект API для Блога писателей. Через этот интерфейс могут работать 
 мобильное приложение или чат-бот; 
 через него же можно передавать данные 
 в любое приложение или на фронтенд.
@@ -10,9 +10,9 @@
 ***Клонировать репозиторий и перейти в него в командной строке:***
 
 ```bash
-git clone <https://github.com/momtheprogram/api_final_yatube.git>
+git clone <https://github.com/momtheprogram/api_final_writers_blog>
 
-cd api_final_yatube
+cd api_final_writers_blog
 ``` 
 
 
